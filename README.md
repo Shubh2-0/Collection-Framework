@@ -23,4 +23,4 @@ Algorithm: Algorithm refers to the methods which are used to perform operations 
 So why do you think we need Java collections? The Java collection framework provides the developers to access prepackaged data structures as well as algorithms to manipulate data. Next, let us move to the Java collections framework hierarchy and see where these interfaces and classes resides.
 
 
-<img alt="Demo" src="https://www.edureka.co/blog/wp-content/uploads/2017/05/Collection-framework-hierarchy.png" />
+<img alt="Demo" src="https://banner2.cleanpng.com/20180626/eyg/kisspng-java-collections-framework-iterator-class-hierarchy-5b323ac34302e3.6761886015300184992745.jpg" />
