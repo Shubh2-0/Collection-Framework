@@ -1,0 +1,30 @@
+package Queue_Interface;
+
+import java.util.ArrayDeque;
+import java.util.Iterator;
+
+public class Array_Deque {
+
+public static void main(String[] args) {
+	
+ArrayDeque<Integer> aq1 = new ArrayDeque<>();
+
+aq1.add(23);
+aq1.add(56);
+aq1.offerFirst(1);
+aq1.offer(4);
+aq1.offer(56);
+//aq1.add(null);
+aq1.offer(56);
+
+
+System.out.println(aq1);	
+
+
+	
+	
+	
+}	
+	
+	
+}

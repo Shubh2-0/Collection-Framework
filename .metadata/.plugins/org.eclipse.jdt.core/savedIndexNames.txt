@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\shubh\OneDrive\Desktop\Collection_FrameWork\.metadata\.plugins\org.eclipse.jdt.core
+1021801232.index
+380491998.index
+1865797976.index
+2157735601.index

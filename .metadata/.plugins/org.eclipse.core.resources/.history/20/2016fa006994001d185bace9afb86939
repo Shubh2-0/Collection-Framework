@@ -1,0 +1,47 @@
+package com.masai;
+
+import java.util.LinkedList;
+import java.util.List;
+
+public class Linked_List {
+
+public static void main(String[] args) {
+	
+
+ List<String> mylist = new LinkedList<>();
+ 
+ 
+ mylist.add("Shubham");
+ mylist.add("Dev");
+ mylist.add("Boby");
+ mylist.add("Aman");
+ mylist.add("Chinmay");
+ mylist.add("Ayush");
+ mylist.add("Aatish");
+ mylist.add(null);
+ 
+System.out.println(mylist);
+ 
+ 
+ 
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+}	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+}

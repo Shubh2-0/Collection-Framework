@@ -1,0 +1,44 @@
+package Set_Interface;
+
+import java.util.TreeSet;
+
+public class Tree_Set {
+
+	
+	public static void main(String[] args) {
+		
+	
+	TreeSet<Integer> tree1 = new TreeSet<>();
+	
+	tree1.add(1);
+	tree1.add(0);
+	tree1.add(90);
+	tree1.add(3);
+	tree1.add(2);
+	tree1.add(10);
+	tree1.add(5);
+	tree1.add(6);
+	
+	System.out.println(tree1);
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

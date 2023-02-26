@@ -1,0 +1,17 @@
+package com.masai;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ArrayList {
+
+	
+List<Integer> arr = new ArrayList<>();	
+	
+	
+	
+	
+	
+	
+
+}

@@ -1,0 +1,45 @@
+package com.masai;
+
+import java.util.List;
+import java.util.Stack;
+
+public class StacK {
+
+public static void main(String[] args) {
+	
+
+	
+	Stack<Integer> mystack = new Stack<>();
+	
+	
+	mystack.push(null);
+	mystack.push(2);
+	mystack.push(6);
+	mystack.push(10);
+	mystack.push(3);
+	mystack.push(7);
+	mystack.push(90);
+	mystack.push(2);
+	mystack.push(6);
+	mystack.push(0);
+	mystack.push(5);
+	mystack.push(1);
+	
+	
+
+	
+	
+}	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

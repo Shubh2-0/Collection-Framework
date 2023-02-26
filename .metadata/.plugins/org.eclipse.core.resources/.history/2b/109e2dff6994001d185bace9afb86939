@@ -1,0 +1,61 @@
+package com.masai;
+
+import java.util.LinkedList;
+import java.util.List;
+
+public class Linked_List {
+
+public static void main(String[] args) {
+	
+
+ List<String> mylist = new LinkedList<>();
+ 
+ 
+ mylist.add("Shubham");
+ mylist.add("Dev");
+ mylist.add("Boby");
+ mylist.add("Aman");
+ mylist.add("Chinmay");
+ mylist.add("Ayush");
+ mylist.add("Aatish");
+ mylist.add(null);
+ mylist.add("Aatish");
+ mylist.add(null);
+ 
+ 
+ 
+System.out.println(mylist);
+
+System.out.println(mylist.get(4));
+
+
+/*
+  POINTS TO BE REMEMBER ABOUT LINKEDLIST
+  
+  1.order of insertion is maintain
+  2.store the element on doubly LinkedList data structure
+  3.null value is allowed
+
+
+ */
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+}	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+}

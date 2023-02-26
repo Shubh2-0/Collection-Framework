@@ -1,0 +1,38 @@
+package Set_Interface;
+
+import java.util.HashSet;
+
+public class Hash_Set {
+	
+	
+
+public static void main(String[] args) {
+
+	
+
+HashSet<Integer> myset = new HashSet<>();
+
+myset.add(1);
+myset.add(3);
+myset.add(4);
+myset.add(2);
+myset.add(7);
+myset.add(5);
+myset.add(9);
+myset.add(10);
+
+
+System.out.println(myset);
+
+	
+	
+	
+}	
+	
+	
+	
+	
+	
+	
+
+}

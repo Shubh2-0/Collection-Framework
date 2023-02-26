@@ -1,0 +1,36 @@
+package com.masai;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Array_List {
+
+public static void main(String[] args) {
+	
+	List<Integer> arr = new ArrayList<>();	
+	
+	int num = 1;
+	while(num < 11) {
+		arr.add(num);
+		num++;
+	}
+	
+	System.out.println(arr);
+	
+	
+	
+	
+}	
+
+	
+
+
+
+	
+	
+	
+	
+	
+	
+
+}

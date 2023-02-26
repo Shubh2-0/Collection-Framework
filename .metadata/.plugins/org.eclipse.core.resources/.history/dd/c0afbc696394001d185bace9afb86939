@@ -1,0 +1,111 @@
+package com.masai;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+public class Array_List {
+
+/**
+ * @param args
+ */
+public static void main(String[] args) {
+	
+	List<Integer> arr = new ArrayList<>();	
+	
+//	ADDING ELEMENT IN ARRAYLIST
+	int num = 1;
+	while(num < 11) {
+		arr.add(num);
+		num++;
+	}
+	
+	System.out.println(arr);
+	
+/*THERE ARE TOTAL SIX METHOD FOR TRAVERSING IN ARRAYLIST 
+	1.using an iterator
+	2.using a for loop
+	3.using a for-each loop
+	4.using a while loop
+	5.using the ListIterator class
+	6.using the forEach() method */
+	
+	
+	
+//	3.using a for-each loop
+	
+//	here we use wrapper class because 
+//	collection are only store objects
+//	and wrapper class is the representation 
+//	of primitives data type like int , char and so on
+	
+//	when we add primitive data type
+//	in collections they automatically 
+//	converted into their respective Wrapper class
+//	and this process is called AUTO BOXING
+	
+//	and we access or use the element 
+//	that are converted into their 
+//	respective Wrapper class they 
+//	automatically converted into
+//	their original data type that is
+//	primitive data type and this process
+//	is called AUTO UNBOXING
+	
+	
+	
+	for(Integer el : arr) {
+		System.out.println(el);
+	}
+	
+	
+	
+	List<String> names = new ArrayList<>();
+	
+	names.add("Shubham");
+	names.add("Dev");
+	names.add("Boby");
+	names.add("Guarav");
+	names.add("Aman");
+	names.add("Chinmay");
+	names.add("Parth");
+	names.add("Atul");
+	names.add("Brijesh");
+	names.add("Akash");
+	
+	
+ for(String el : names) {
+
+ StringBuffer s = new StringBuffer(el);
+ 
+ System.out.println(s+"\t"+"name Size is  "+s.length()+"      reverse ->     "+s.reverse());
+	 
+	 
+ }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}	
+
+	
+
+
+
+	
+	
+	
+	
+	
+	
+
+}

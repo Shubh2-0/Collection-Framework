@@ -1,0 +1,68 @@
+package com.masai;
+
+import java.util.*;
+
+public class Vector {
+
+
+public static void main(String[] args) {
+
+	
+List<Integer> myvec = new java.util.Vector<>();
+
+
+myvec.add(1);
+myvec.add(2);
+myvec.add(6);
+myvec.add(10);
+myvec.add(21);
+myvec.add(65);
+myvec.add(11);
+myvec.add(12);
+myvec.add(76);
+
+System.out.println(myvec);
+
+
+/*
+  POINTS TO BE REMEMBER ABOUT VECTOR
+  
+  1.vector is very old class of java it is old than collection 
+    basically java release with their first version that is
+    JAVA VERSION 1.0 at this time collection was not part of 
+    java but VECTOR is but after 1.0 they introduce 
+    JAVA VERSION 1.2 which have collection also at that time
+    they added vector in collection
+    
+  2.order of insertion is maintain
+  3.look like arrayList but thread safe
+  4.special type of traversing method we can say that tool that is ENUMERATION
+  5.size is DYNAMIC
+  6.we can access value and elements by using indexes
+    
+    
+   
+ */
+
+
+ System.out.println(myvec.get(0));
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+}
+	
+	
+	
+	
+	
+
+}

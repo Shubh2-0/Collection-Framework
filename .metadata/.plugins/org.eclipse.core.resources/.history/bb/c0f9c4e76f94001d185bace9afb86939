@@ -1,0 +1,37 @@
+package com.masai;
+
+import java.util.*;
+
+public class Vector {
+
+
+public static void main(String[] args) {
+
+	
+List<Integer> myvec = new java.util.Vector<>();
+
+
+myvec.add(1);
+myvec.add(2);
+myvec.add(6);
+myvec.add(10);
+myvec.add(21);
+myvec.add(65);
+myvec.add(11);
+myvec.add(12);
+myvec.add(76);
+
+System.out.println(myvec);
+
+	
+	
+	
+	
+}
+	
+	
+	
+	
+	
+
+}

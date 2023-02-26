@@ -1,0 +1,36 @@
+
+public class What_Is_Framework {
+	
+
+/*
+ 
+ A FRAMEWORK IS A SET OF CLASSES AND INTERFACES WHICH 
+ PROVIDE A READY-MADE ARCHITECTURE.
+ 
+ FOR EXAMPLE : COLLECTIONN FRAMEWORK ITSELF
+ 
+ BACISALLY IN FRAMEWORK WE HAVE ALREADY SOMETHING THAT WE USE 
+ TO DO OUR WORK
+ 
+ FOR EXAMPLE : IF WE WANT TO CREATE A LIST SO HERE WE CAN 
+               USE LIST (LIST IS A INTERFACE IN COLLECTION FRAMEWORK)
+               
+               
+ REAL LIFE EXAMPLE : 1.HAM APNE GHR M REHTE H JO HAMARE PAPA NE BANAYA HOTA H 
+                       JAVA HUM KUCH BHI USE KR SAKTE HAI JAISE CAR, BIKE , TV , MOBILE ETC
+                       OR KUCH ADD YA BADAL BHI SAKTE HAI SO HERE
+                       PAPA NE HAME EK FRAMEWORK DIYA H JISSE HUM USE KR SAKTE
+                       
+                        
+               
+               
+  	
+  	
+  	
+  	
+  	
+ */
+	
+	
+
+}

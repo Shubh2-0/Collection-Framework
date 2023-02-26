@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.junit.active_filters=jdk.internal.reflect.*,org.eclipse.jdt.internal.junit.runner.*,org.eclipse.jdt.internal.junit.ui.*,org.eclipse.jdt.internal.junit4.runner.*,org.eclipse.jdt.internal.junit5.runner.*,org.junit.*,sun.reflect.*,java.lang.reflect.Method.invoke,junit.framework.Assert,junit.framework.TestCase,junit.framework.TestResult,junit.framework.TestResult$1,junit.framework.TestSuite
+org.eclipse.jdt.junit.enable_assertions=true

@@ -1,0 +1,20 @@
+package Queue_Interface;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+public class Linked_List {
+
+public static void main(String[] args) {
+
+	
+	Queue<Integer> list1 = new LinkedList<>();
+	
+	list1.add(1);
+	
+	
+}	
+	
+	
+	
+}

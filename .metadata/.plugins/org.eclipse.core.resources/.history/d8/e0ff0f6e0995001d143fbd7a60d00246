@@ -1,0 +1,157 @@
+package Queue_Interface;
+
+import java.util.Iterator;
+import java.util.ListIterator;
+import java.util.PriorityQueue;
+
+public class Priority_Queue {
+
+
+public static void main(String[] args) {
+
+	
+	PriorityQueue<Integer> p1 = new PriorityQueue<>();
+
+//	p1.add("Shubham");
+	p1.add(53);
+	p1.add(1);
+	p1.add(2);
+	p1.add(53);
+	p1.add(2);
+	p1.add(6);
+	p1.add(10);
+	
+//	System.out.println(p1.add(40.8));
+	System.out.println(p1.add(40));
+	System.out.println(p1);
+//	p1.clear();
+    p1.element();  //return not remove
+	p1.peek();    //return not remove
+	
+//	p1.clear();
+	p1.remove();  //return and remove
+	p1.poll();    //return and remove
+	
+	
+	
+	
+	System.out.println(p1);
+	
+	
+/*  
+   POINTS TO BE REMEMBER ABOUT PRIORITY QUEUE
+   
+    1.allow duplicate elements
+    2.order of insertion is not maintain
+    3.AUTOSORTING it automatically sorted the queue in ascending order 
+    4.we can store only one data type variable(HOMOGENIOUS) we can say that 
+      priority queue is always TYPE SAFE   	
+       	
+
+    ADD METHOD     : if the element added successfully so they return true else throw EXCEPTION
+	OFFER METHOD   : if the element added successfully so they return true else return false
+	
+	ELEMENT METHOD : return the head(first element) of the queue. Throw an EXECPTION if the queue is empty 
+	PEEK METHOD    : return the head (first element) of the queue. Return null if the queue is empty
+	
+	
+	REMOVE METHOD  : return and removes the head of the queue. Throw an EXECPTION if the queue is empty
+	POLL NETHOD    : return and removes the head of the queue. Return null if queue is empty
+
+
+	THERE ARE TOTAL SIX METHOD FOR TRAVERSING IN LINKEDLIST 
+	1.using an iterator
+	2.using a for loop 
+	3.using a for-each loop (ONLY SUPPORTED TYPE SAFE COLECTION)
+	4.using a while loop
+	5.using the ListIterator class
+	6.using the forEach() method
+	7.we can traverse both type safe or unType safe of collections  
+	  
+	*/
+
+
+System.out.println("----------------------For-Each Loop----------------------");
+
+/*	3.using a for-each loop
+
+here we use wrapper class because 
+collection are only store objects
+and wrapper class is the representation 
+of primitives data type like int , char and so on
+
+when we add primitive data type
+in collections they automatically 
+converted into their respective Wrapper class
+and this process is called AUTO BOXING
+
+and we access or use the element 
+that are converted into their 
+respective Wrapper class they 
+automatically converted into
+their original data type that is
+primitive data type and this process
+is called AUTO UNBOXING */
+
+
+  
+ for(Integer el : p1) {
+	 System.out.println(el);
+ }
+
+  
+  System.out.println("----------------------Iterator----------------------");	
+  
+  /* 1.using an iterator
+   
+   for traversing through iterator first 
+   we have gain the object of iterator 
+   from collection interface
+   and after store into any variable 
+   we can only traversing in forward direction (left to right) */
+   
+  Iterator<Integer> itr1 = p1.iterator();
+  
+  //  here hasNext is method which check that the element is null 
+  //  or present
+  
+  while(itr1.hasNext()) {
+	  System.out.println(itr1.next());
+  }
+  
+  
+          
+      
+      System.out.println("----------------------For-Each Method----------------------");    
+    
+  /*    6.using the forEach() method  (JAVA 8 FEATURE)
+      
+      here we use lambda Expression for traversing
+      we can give any name for e */   
+      
+      p1.forEach(el->{
+    	  System.out.println(el);
+      });
+    	 
+    	 
+      
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+	
+	
+	
+
+	
+	
+	
+	
+}

@@ -1,0 +1,32 @@
+package Queue_Interface;
+
+import java.util.PriorityQueue;
+
+public class Priority_Queue {
+
+
+public static void main(String[] args) {
+
+	
+	PriorityQueue p1 = new PriorityQueue<>();
+
+	p1.add("Shubham");
+	p1.add(1);
+	p1.add(1.234);
+	p1.add(true);
+	
+	System.out.println(p1);
+	
+	
+	
+}
+
+	
+	
+	
+
+	
+	
+	
+	
+}

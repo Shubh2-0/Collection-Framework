@@ -1,0 +1,24 @@
+package com.masai;
+
+import java.util.List;
+
+public class StacK {
+
+public static void main(String[] args) {
+	
+	
+	List<Integer> mystack = new StacK();
+}	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

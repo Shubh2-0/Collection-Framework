@@ -1,0 +1,68 @@
+package Queue_Interface;
+
+import java.util.PriorityQueue;
+
+public class Priority_Queue {
+
+
+public static void main(String[] args) {
+
+	
+	PriorityQueue<Integer> p1 = new PriorityQueue<>();
+
+//	p1.add("Shubham");
+	p1.add(53);
+	p1.add(1);
+	p1.add(2);
+	p1.add(53);
+	p1.add(2);
+	p1.add(6);
+	p1.add(10);
+	
+//	System.out.println(p1.add(40.8));
+	System.out.println(p1.add(40));
+	
+	
+//	p1.add(1.234);
+//	p1.add(true);
+	
+//	System.out.println(p1);
+	
+	
+/*  
+   POINTS TO BE REMEMBER ABOUT PRIORITY QUEUE
+   
+    1.allow duplicate elements
+    2.order of insertion is not maintain
+    3.AUTOSORTING it automatically sorted the queue in asc ending order    	
+       	
+
+    ADD METHOD     :   if the element added successfully so they return true else throw EXCEPTION
+	OFFER METHOD   : if the element added successfully so they return true else return false
+	
+	ELEMENT METHOD : return the head(first element) of the queue. Throw an EXECPTION if the queue is empty 
+	PEEK METHOD    : return the head (first element) of the queue. Return null if the queue is empty
+	
+	
+	REMOVE METHOD  : return and removes the head of the queue. Throw an EXECPTION if the queue is empty
+	POLL NETHOD    : return and removes the head of the queue. Return null if queue is empty
+	
+	
+	
+	
+	
+	
+	
+	*/
+	
+}
+
+	
+	
+	
+
+	
+	
+	
+	
+}

@@ -1,0 +1,80 @@
+package com.masai;
+
+import java.util.LinkedList;
+import java.util.List;
+
+public class Linked_List {
+
+public static void main(String[] args) {
+	
+
+ List<String> mylist = new LinkedList<>();
+ 
+ 
+ mylist.add("Shubham");
+ mylist.add("Dev");
+ mylist.add("Boby");
+ mylist.add("Aman");
+ mylist.add("Chinmay");
+ mylist.add("Ayush");
+ mylist.add("Aatish");
+ mylist.add(null);
+ mylist.add("Aatish");
+ mylist.add(null);
+ 
+ 
+ 
+System.out.println(mylist);
+
+System.out.println(mylist.get(4));
+
+
+/*
+  POINTS TO BE REMEMBER ABOUT LINKEDLIST
+  
+  1.order of insertion is maintain
+  2.store the element on doubly LinkedList data structure
+  3.null value is allowed
+  4.store duplicate element
+
+
+
+
+THERE ARE TOTAL SIX METHOD FOR TRAVERSING IN LINKEDLIST 
+	1.using an iterator
+	2.using a for loop
+	3.using a for-each loop
+	4.using a while loop
+	5.using the ListIterator class
+	6.using the forEach() method    */
+
+
+
+
+//3.using a for-each loop
+  
+  for(String el : mylist) {
+	  System.out.println(el);
+  }
+
+  
+
+	
+	
+	
+	
+	
+	
+	
+}	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+}

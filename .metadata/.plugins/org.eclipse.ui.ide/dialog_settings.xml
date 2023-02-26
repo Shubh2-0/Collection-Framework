@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="org.eclipse.buildship:3.1.6.v20220511-1359"/>
+		<item value="org.eclipse.egit.gitflow.feature:6.3.0.202209071007-r"/>
+		<item value="org.eclipse.egit:6.3.0.202209071007-r"/>
+		<item value="org.eclipse.emf.common:2.27.0.v20220817-1401"/>
+		<item value="org.eclipse.emf.ecore:2.29.0.v20220817-1401"/>
+		<item value="org.eclipse.epp.mpc:1.10.0.v20220502-0731"/>
+		<item value="org.eclipse.help:2.3.1100.v20220831-1800"/>
+		<item value="org.eclipse.jdt:3.18.1300.v20220831-1800"/>
+		<item value="org.eclipse.jgit.gpg.bc:6.3.0.202209071007-r"/>
+		<item value="org.eclipse.jgit.http.apache:6.3.0.202209071007-r"/>
+		<item value="org.eclipse.jgit.lfs:6.3.0.202209071007-r"/>
+		<item value="org.eclipse.jgit.ssh.apache:6.3.0.202209071007-r"/>
+		<item value="org.eclipse.jgit:6.3.0.202209071007-r"/>
+		<item value="org.eclipse.jst.common.fproj.enablement.jdt:3.27.0.v202208260526"/>
+		<item value="org.eclipse.justj.openjdk.hotspot.jre.full:17.0.4.v20221004-1257"/>
+		<item value="org.eclipse.m2e.feature:2.0.5.20220912-1211"/>
+		<item value="org.eclipse.m2e.logback.feature:2.0.0.20220717-0848"/>
+		<item value="org.eclipse.m2e.wtp.feature:1.5.2.20220906-1452"/>
+		<item value="org.eclipse.mylyn.wikitext.editors_feature:3.0.42.202201072301"/>
+		<item value="org.eclipse.pde:3.14.1300.v20220831-1800"/>
+		<item value="org.eclipse.platform:4.25.0.v20220831-1800"/>
+		<item value="org.eclipse.rcp:4.25.0.v20220831-1800"/>
+		<item value="org.eclipse.tm.terminal.connector.ssh.feature:10.7.1.202208160035"/>
+		<item value="org.eclipse.tm.terminal.control.feature:10.7.1.202208160035"/>
+		<item value="org.eclipse.tm.terminal.feature:10.7.1.202208160035"/>
+		<item value="org.eclipse.tm.terminal.view.feature:10.7.1.202208160035"/>
+		<item value="org.eclipse.userstorage:1.2.0.v20210517-0327"/>
+		<item value="org.eclipse.wst.common.fproj:3.7.3.v202111212041"/>
+		<item value="org.jboss.tools.m2e.wro4j.feature:1.2.0.202209071019"/>
+		<item value="org.sonatype.m2e.egit.feature:0.17.0.202209271423"/>
+	</list>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="89"/>
+		<item key="DIALOG_Y_ORIGIN" value="252"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+	</section>
+</section>

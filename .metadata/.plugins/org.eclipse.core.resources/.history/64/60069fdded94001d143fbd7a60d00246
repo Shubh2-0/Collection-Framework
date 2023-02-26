@@ -1,0 +1,73 @@
+package Set_Interface;
+
+import java.util.TreeSet;
+
+public class Tree_Set {
+
+	
+	public static void main(String[] args) {
+		
+	
+	TreeSet<Integer> tree1 = new TreeSet<>();
+	
+	tree1.add(1);
+	tree1.add(0);
+	tree1.add(90);
+	tree1.add(3);
+	tree1.add(2);
+	tree1.add(10);
+	tree1.add(5);
+	tree1.add(6);
+	tree1.add(-1);
+	
+	System.out.println(tree1);
+	
+	
+	/*
+	   
+	   POINTS TO BE REMEMBER ABOUT TREESET
+	   
+	   1.store only unique elements
+	   2.order of insertion is not maintain because they store the element in ascending order
+	   3.store the elements in ascending order (lower to higher)
+	   4.we can give customer sorting or custom insertion process also
+	   5.we can not access elements by using index
+	   6.size is DYNAMIC  
+	   7.if we want to access elements of hashSet so first we have to converted into arrayList 
+       8.we can traverse both type safe or unType safe of collections
+       9.it is a child of SORTEDSET interface
+       
+       
+       
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 */
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}
