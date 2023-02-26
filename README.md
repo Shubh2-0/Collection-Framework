@@ -24,5 +24,4 @@ Algorithm: Algorithm refers to the methods which are used to perform operations 
 The Java collection framework provides the developers to access prepackaged data structures as well as algorithms to manipulate data. Next, let us move to the Java collections framework hierarchy and see where these interfaces and classes resides.
 
 
-<img alt="Demo" src="Demo"shttps://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/03/collection-framework-hierarchy-in-java.jpg" />
-" />
+<img alt="Demo" src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/03/collection-framework-hierarchy-in-java.jpg" />
