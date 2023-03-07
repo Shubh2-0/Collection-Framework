@@ -2,13 +2,13 @@
 
 Java collections refer to a collection of individual objects that are represented as a single unit. You can perform all operations such as searching, sorting, insertion, manipulation, deletion, etc., on Java collections just like you do it on data.
 
-# What is a Java Collection Framework?
+# What is a Java Collection Framework ?
 
 A Java collection framework provides an architecture to store and manipulate a group of objects. A Java collection framework includes the following:
 
-Interfaces\
-Classes\
-Algorithm
+**Interfaces\**
+**Classes\**
+**Algorithm**
 
 
 # Let’s learn about them in detail:
