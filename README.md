@@ -2,22 +2,6 @@
 
 Welcome to the Collection Framework repository! 🎉 This repository is designed to provide an easy-to-understand and comprehensive exploration of the Collection Framework in Java.
 
-![Collection Framework](https://example.com/images/collection_framework_image.png)
-
-## Practical (IMPLEMENTATION) 🛠️
-
-The Practical (IMPLEMENTATION) project offers a practical approach to understanding the Collection Framework. It includes numerous examples and implementations of different data structures and algorithms provided by the framework. These implementations showcase how to use various collection classes, such as lists, sets, queues, and maps, in real-world scenarios. Each implementation is accompanied by clear explanations and code snippets, making it easier for you to grasp the concepts and apply them in your own projects. 💡📚
-
-## Theory 📖
-
-The Theory project serves as a complete theoretical guide to the Collection Framework. It covers all the important concepts, principles, and design patterns behind the framework. From understanding the fundamentals of collections and iterators to exploring advanced topics like comparators and hash codes, this section provides comprehensive explanations and insights. It also dives into the complexities of data structures, algorithms, and their best use cases. 🧠🔬
-
-## Contribution and Learning 🌐
-
-Contributing to this repository is highly encouraged! By adding your own implementations, improving existing code, or suggesting enhancements, you can actively participate in the learning process and help make this resource even more valuable. Whether you're a beginner learning the basics or an experienced developer looking to deepen your understanding, this repository aims to cover all the essential aspects of the Collection Framework. 💪🌟
-
-So, let's collaborate and leverage the full potential of the Collection Framework! You can access the repository and start your journey by clicking [here](https://github.com/Shubh2-0/Collection-Framework.git). ✨🚀💻
-
 Java collections refer to a collection of individual objects that are represented as a single unit. You can perform all operations such as searching, sorting, insertion, manipulation, deletion, etc., on Java collections just like you do it on data.
 
 # What is a Java Collection Framework ?
@@ -45,3 +29,18 @@ The Java collection framework provides the developers to access prepackaged data
 
 
 <img alt="Demo" src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/03/collection-framework-hierarchy-in-java.jpg" />
+
+## Practical (IMPLEMENTATION) 🛠️
+
+The Practical (IMPLEMENTATION) project offers a practical approach to understanding the Collection Framework. It includes numerous examples and implementations of different data structures and algorithms provided by the framework. These implementations showcase how to use various collection classes, such as lists, sets, queues, and maps, in real-world scenarios. Each implementation is accompanied by clear explanations and code snippets, making it easier for you to grasp the concepts and apply them in your own projects. 💡📚
+
+## Theory 📖
+
+The Theory project serves as a complete theoretical guide to the Collection Framework. It covers all the important concepts, principles, and design patterns behind the framework. From understanding the fundamentals of collections and iterators to exploring advanced topics like comparators and hash codes, this section provides comprehensive explanations and insights. It also dives into the complexities of data structures, algorithms, and their best use cases. 🧠🔬
+
+## Contribution and Learning 🌐
+
+Contributing to this repository is highly encouraged! By adding your own implementations, improving existing code, or suggesting enhancements, you can actively participate in the learning process and help make this resource even more valuable. Whether you're a beginner learning the basics or an experienced developer looking to deepen your understanding, this repository aims to cover all the essential aspects of the Collection Framework. 💪🌟
+
+So, let's collaborate and leverage the full potential of the Collection Framework! You can access the repository and start your journey by clicking [here](https://github.com/Shubh2-0/Collection-Framework.git). ✨🚀💻
+
