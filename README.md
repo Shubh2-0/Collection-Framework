@@ -35,7 +35,7 @@ The Java collection framework provides the developers to access prepackaged data
 The Practical (IMPLEMENTATION) project offers a practical approach to understanding the Collection Framework. It includes numerous examples and implementations of different data structures and algorithms provided by the framework. These implementations showcase how to use various collection classes, such as lists, sets, queues, and maps, in real-world scenarios. Each implementation is accompanied by clear explanations and code snippets, making it easier for you to grasp the concepts and apply them in your own projects. 💡📚
 
 ## Theory 📖
-
+ 
 The Theory project serves as a complete theoretical guide to the Collection Framework. It covers all the important concepts, principles, and design patterns behind the framework. From understanding the fundamentals of collections and iterators to exploring advanced topics like comparators and hash codes, this section provides comprehensive explanations and insights. It also dives into the complexities of data structures, algorithms, and their best use cases. 🧠🔬
 
 ## Contribution and Learning 🌐
